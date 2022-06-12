@@ -1,1 +1,1 @@
-java -Dserver.port=$PORT $JAVA_OPTS -jar build/libs/nameOfMyApp-0.0.1-SNAPSHOT.jar
+java -Dserver.port=$PORT $JAVA_OPTS -jar build/libs/RecorDS-Recognizer-WS-0.0.1-SNAPSHOT.jar
